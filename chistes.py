@@ -1,0 +1,8 @@
+print('¿En que se parece una familia, un bombero y un barco?')
+input()
+print('No sé... ¿En que se parecen?')
+input()
+print('En que el barco y el bombero tienen casco.')
+input()
+print('¿Y la familia?', end='')
+print(' -Bien gracias.')
